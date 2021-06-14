@@ -3,7 +3,8 @@
 A CMS style where developers can publish and comment on other posts using the MVC paradigm and deployed using Heroku.
 
 [Link to GitHub Repository](https://github.com/WitnessMyHands/Tech-Blog)
-[Link to Deployed Application](____)
+
+[Link to Heroku Deployed Application](https://wmh-tech-blog.herokuapp.com/)
 
 ## Table Of Contents
 
