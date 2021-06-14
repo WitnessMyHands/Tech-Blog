@@ -1,0 +1,34 @@
+{
+  "name": "tech-blog",
+  "version": "1.0.0",
+  "description": "A CMS style where developers can publish and comment on other posts using the MVC paradigm and deployed using Heroku.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "npm start dev",
+    "seed": "node seeds/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WitnessMyHands/Tech-Blog.git"
+  },
+  "author": "https://github.com/WitnessMyHands/",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WitnessMyHands/Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/WitnessMyHands/Tech-Blog#readme",
+  "keywords": [],
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "connect-session-sequelize": "^7.1.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2",
+    "express-session": "^1.17.2",
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.7",
+    "sequelize": "^6.6.2"
+  }
+}
