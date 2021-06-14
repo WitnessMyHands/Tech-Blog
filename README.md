@@ -1,6 +1,6 @@
 # Tech-Blog
 
-A CMS style where developers can publish and comment on other posts using the MVC paradigm and deployed using Heroku.
+A CMS style blog where developers can publish and comment on other posts using the MVC paradigm and deployed using Heroku.
 
 [Link to GitHub Repository](https://github.com/WitnessMyHands/Tech-Blog)
 
